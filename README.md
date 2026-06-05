@@ -166,17 +166,14 @@ const shruti = {
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/shruti-6b58b2257/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
 </a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:shruti.mdu@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
 </a>
-&nbsp;
-<a href="https://smart-manager-beige.vercel.app/">
-  <img src="https://img.shields.io/badge/Live_Project-E040FB?style=for-the-badge&logo=vercel&logoColor=white" height="35"/>
-</a>
+
 
 <br/><br/>
 
